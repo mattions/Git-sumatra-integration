@@ -7,7 +7,7 @@ What is it
 
 This is a git repo to test the support of git to sumatra_.
 
-.. sumatra: http://neuralensemble.org/trac/sumatra
+.. _sumatra: http://neuralensemble.org/trac/sumatra
 
 How to use it
 =============
@@ -28,7 +28,7 @@ Neuronvisio and sumatra integration
 
 You need neuronvisio_ installed.
 
-.. neuronvisio: http://mattions.github.com/neuronvisio/
+.. _neuronvisio: http://mattions.github.com/neuronvisio/
 
 To run in plain python::
 
