@@ -1,0 +1,5 @@
+# Pattern ignored by git
+
+.smt
+.project
+.pydevproject
