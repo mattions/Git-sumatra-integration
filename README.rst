@@ -15,7 +15,7 @@ How to use it
 Example project sumatra
 -----------------------
 
-To run the example project only with python:
+To run the example project only with python::
 
     python src/example_project/main.py src/example_project/default.param
 
